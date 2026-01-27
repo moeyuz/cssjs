@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+<font id="icofont" horiz-adv-x="1000" >
+<font-face font-family="IcoFont" font-weight="400" font-style="Regular" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="vscode" horiz-adv-x="1000" unicode="&#xf03b;" d="M676 725c-11 0-21-3-30-9-2-1-3-3-5-5l-296-271-129 98c-12 10-28 9-39-1l-42-38c-13-13-13-34 0-47l112-102-112-102c-13-13-13-34 0-47l42-38c11-10 27-11 39-1l129 98 296-271c4-5 10-9 16-11 12-4 25-4 37 2l154 74c17 8 27 25 27 43v506c0 18-10 35-27 43l-154 74c-6 3-12 5-18 5z m12-204v-342l-225 171 225 171z" />
+<glyph glyph-name="blogger" horiz-adv-x="1000" unicode="&#xed23;" d="M658-88c153 0 277 125 278 277l1 223-2 12-7 15-13 10c-16 13-98-1-119 19-16 14-18 40-23 75-9 67-14 71-25 94-38 81-143 142-214 151h-194c-153 0-277-125-277-277v-322c0-152 124-277 277-277h318z m-315 650h154c30 0 53-24 53-53 0-29-24-53-53-53h-154c-29 0-53 24-53 53 0 29 24 53 53 53z m-53-369c0 29 24 52 53 52h313c29 0 53-23 53-52 0-29-24-53-53-53h-313c-29 0-53 24-53 53z" />
+</font>
+</defs>
+</svg>
